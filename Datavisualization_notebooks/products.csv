@@ -1,16 +1,16 @@
 Product ID,Name, Category,Price,Stock
-P001      , Wireless Bluetooth Headphones  , Electronics      , 79.99,   150
-P002      , Stainless Steel Water Bottle   , Kitchen & Home   , 24.99,   320
-P003      , Yoga Mat Pro                   , Sports & Fitness , 45.00,   200
-P004      , LED Desk Lamp                  , Office Supplies  , 34.50,   180
-P005      , Organic Green Tea (100 bags)   , Food & Beverages , 18.99,   500
-P006      , Running Shoes - Men's          , Footwear         , 95.00,    75
-P007      , Laptop Stand Adjustable        , Office Supplies  , 52.00,   140
-P008      , Cotton Bath Towel Set          , Home & Bath      , 39.99,   260
-P009      , Portable Phone Charger 20000mAh, Electronics      , 49.99,   110
-P010      , Non-stick Frying Pan 28cm      , Kitchen & Home   , 29.99,   190
-P011      , Resistance Bands Set           , Sports & Fitness , 22.50,   350
-P012      , Scented Soy Candle             , Home Decor       , 16.00,   400
-P013      , Wireless Computer Mouse        , Electronics      , 27.99,   230
-P014      , Bamboo Cutting Board           , Kitchen & Home   , 21.00,   175
-P015      , Vitamin C Supplement 60 Tabs   , Health & Wellness, 14.99,   600
+01      , Wireless Bluetooth Headphones  , Electronics      , 79.99,   150
+02      , Stainless Steel Water Bottle   , Kitchen & Home   , 24.99,   320
+03      , Yoga Mat Pro                   , Sports & Fitness , 45.00,   200
+04      , LED Desk Lamp                  , Office Supplies  , 34.50,   180
+05      , Organic Green Tea (100 bags)   , Food & Beverages , 18.99,   500
+06      , Running Shoes - Men's          , Footwear         , 95.00,    75
+07      , Laptop Stand Adjustable        , Office Supplies  , 52.00,   140
+08      , Cotton Bath Towel Set          , Home & Bath      , 39.99,   260
+09      , Portable Phone Charger 20000mAh, Electronics      , 49.99,   110
+10      , Non-stick Frying Pan 28cm      , Kitchen & Home   , 29.99,   190
+11      , Resistance Bands Set           , Sports & Fitness , 22.50,   350
+12      , Scented Soy Candle             , Home Decor       , 16.00,   400
+13      , Wireless Computer Mouse        , Electronics      , 27.99,   230
+14      , Bamboo Cutting Board           , Kitchen & Home   , 21.00,   175
+15      , Vitamin C Supplement 60 Tabs   , Health & Wellness, 14.99,   600
